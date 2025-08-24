@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
-"""
-Cobradle - Advanced Multi-threaded Downloader
-A powerful CLI downloader with extensive command options and real functionality.
-"""
+# Cobradle The Ultimate Downloader
+# Developed by JohnVictoryz and ThAnaSiS Protected under the M.I.T License 
 
 import asyncio
 import argparse
